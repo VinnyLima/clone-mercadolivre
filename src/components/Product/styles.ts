@@ -16,9 +16,9 @@ export const Column = styled.div`
 export const Gallery = styled.div`
 
 `;
-export const Info = styled.div`
+export const Description = styled.div`
 
 `;
-export const WarrantySection = styled.div`
+export const Section = styled.div`
 
 `;
